@@ -1,1 +1,1 @@
-# uri-judge-challenges
+# Uri Judge Challenges
