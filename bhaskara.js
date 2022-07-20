@@ -10,7 +10,7 @@ const [a, b, c] = numbers;
 const delta = b * b - 4 * a * c;
 
 
-if (delta < 0 || a === 0 || typeof x1 !== 'number' || typeof x2 !== 'number') {
+if (delta < 0 || a === 0) {
   console.log("Impossivel calcular");
 } else {
   const x1 = (-b + Math.sqrt(delta)) / (2 * a);
